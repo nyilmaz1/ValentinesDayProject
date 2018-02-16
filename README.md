@@ -1,4 +1,4 @@
-# ValentinesDayProject
+# Valentines Day Project
 This is an analysis of me and my boyfriend's texts.
 
 I wanted to make a surprise on Valentine's Day to my boyfriend by analysing our texts and creating some visual graphs about our text habits.
