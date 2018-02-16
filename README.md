@@ -12,6 +12,5 @@ If you text a lot like us, and try to remember the date you sent that word, feel
 
 I am not uploading the csv file for privacy concerns, however let me know if you need help about how to import your texts from your phone to your computer as a csv file
 
-You can see some of the graphs at the images file
 
 ## Feel free to reach out anytime!
